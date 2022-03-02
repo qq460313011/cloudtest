@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cloud-consumer-order
+    name: cloud-order-consumer
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
